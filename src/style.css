@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.log-in-btn {
+  background: rgb(161, 161, 225);
+  margin: 0px 0px 0px 10px;
+  border: none;
+  border-radius: 2px;
+  width: 60px;
+  height:20px;
+}
+.sign-up-btn {
+  background: rgb(227, 159, 227);
+  margin: 0px 0px 0px 10px;
+  border: none;
+  border-radius: 2px;
+  width: 60px;
+  height:20px;
+
+}
