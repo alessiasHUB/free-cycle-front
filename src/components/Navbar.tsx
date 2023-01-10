@@ -5,6 +5,7 @@ export interface INavbarProps {}
 
 const Navbar: React.FunctionComponent<INavbarProps> = (props) => {
   return (
+    // {username && 
     <nav>
       <Link className="nav-text" to="/">
         Home
@@ -16,6 +17,7 @@ const Navbar: React.FunctionComponent<INavbarProps> = (props) => {
         Today
       </Link>
     </nav>
+    // }
   );
 };
 
